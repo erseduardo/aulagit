@@ -1,1 +1,1 @@
-primeiro projeto do git!
+primeiro pjeto do git!
